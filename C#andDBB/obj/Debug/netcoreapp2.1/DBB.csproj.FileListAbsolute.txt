@@ -1,0 +1,33 @@
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/obj/Debug/netcoreapp2.1/DBB.csprojAssemblyReference.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/obj/Debug/netcoreapp2.1/DBB.csproj.CoreCompileInputs.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/obj/Debug/netcoreapp2.1/DBB.AssemblyInfoInputs.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/obj/Debug/netcoreapp2.1/DBB.AssemblyInfo.cs
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/bin/Debug/netcoreapp2.1/DBB.deps.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/bin/Debug/netcoreapp2.1/DBB.runtimeconfig.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/bin/Debug/netcoreapp2.1/DBB.runtimeconfig.dev.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/bin/Debug/netcoreapp2.1/DBB.dll
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/bin/Debug/netcoreapp2.1/DBB.pdb
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/obj/Debug/netcoreapp2.1/DBB.dll
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB/obj/Debug/netcoreapp2.1/DBB.pdb
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/bin/Debug/netcoreapp2.1/DBB.deps.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/bin/Debug/netcoreapp2.1/DBB.runtimeconfig.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/bin/Debug/netcoreapp2.1/DBB.runtimeconfig.dev.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/bin/Debug/netcoreapp2.1/DBB.dll
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/bin/Debug/netcoreapp2.1/DBB.pdb
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/obj/Debug/netcoreapp2.1/DBB.csprojAssemblyReference.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/obj/Debug/netcoreapp2.1/DBB.csproj.CoreCompileInputs.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/obj/Debug/netcoreapp2.1/DBB.AssemblyInfoInputs.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/obj/Debug/netcoreapp2.1/DBB.AssemblyInfo.cs
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/obj/Debug/netcoreapp2.1/DBB.dll
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/POO/DBB (copy)/obj/Debug/netcoreapp2.1/DBB.pdb
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/bin/Debug/netcoreapp2.1/DBB.deps.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/bin/Debug/netcoreapp2.1/DBB.runtimeconfig.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/bin/Debug/netcoreapp2.1/DBB.runtimeconfig.dev.json
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/bin/Debug/netcoreapp2.1/DBB.dll
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/bin/Debug/netcoreapp2.1/DBB.pdb
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/obj/Debug/netcoreapp2.1/DBB.csprojAssemblyReference.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/obj/Debug/netcoreapp2.1/DBB.csproj.CoreCompileInputs.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/obj/Debug/netcoreapp2.1/DBB.AssemblyInfoInputs.cache
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/obj/Debug/netcoreapp2.1/DBB.AssemblyInfo.cs
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/obj/Debug/netcoreapp2.1/DBB.dll
+/media/desfid/093FDDAA381E38BB/Backup/Adrian/Documents/Instituto/2/Metodologias/DBB (ordered)/obj/Debug/netcoreapp2.1/DBB.pdb
